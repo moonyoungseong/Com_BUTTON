@@ -36,7 +36,7 @@ public class KeyList12 : MonoBehaviour
 
     public void FIVE()
     {
-        inputText12.text = recent.text + "1";
+        inputText12.text = recent.text + "5";
         recent.text = inputText12.text;
     }
 
