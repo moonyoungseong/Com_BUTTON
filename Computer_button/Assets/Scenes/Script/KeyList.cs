@@ -8,7 +8,7 @@ public class KeyList : MonoBehaviour
 {
     public Text inputText; // 입력란
     public Text recent = null; // 적혀있는 값
-    public int user_num;
+    public static int user_num;
 
     public void ONE()
     {

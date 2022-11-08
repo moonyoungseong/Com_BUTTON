@@ -6,9 +6,9 @@ using UnityEngine.UI;
 
 public class KeyList13 : MonoBehaviour
 {
-    public Text inputText13; // ÀÔ·Â¶õ
-    public Text recent = null; // ÀûÇôÀÖ´Â °ª
-    public int user_num13;
+    public Text inputText13; // ï¿½Ô·Â¶ï¿½
+    public Text recent = null; // ï¿½ï¿½ï¿½ï¿½ï¿½Ö´ï¿½ ï¿½ï¿½
+    public static int user_num13;
 
     public void ONE()
     {

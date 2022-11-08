@@ -9,7 +9,7 @@ public class KeyList2 : MonoBehaviour
     public List<Text> btnnum2 = new List<Text>(); // 버튼의 텍스트 값;
     public Text inputText2; // 입력란
     public Text recent2 = null; // 적혀있는 값
-    public int user_num2;
+    public static int user_num2;
 
     public void ONE()
     {
