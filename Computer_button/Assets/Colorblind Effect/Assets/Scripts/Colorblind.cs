@@ -132,10 +132,10 @@ namespace Wilberforce
 	{	
 		// names appearing in the dropdown menu
 		private readonly GUIContent[] typeTexts = new GUIContent[4] {
-			new GUIContent("Normal Vision"),
-			new GUIContent("Protanopia"),
-			new GUIContent("Deuteranopia"),
-			new GUIContent("Tritanopia")
+			new GUIContent("필터 없음"),
+			new GUIContent("적색약"),
+			new GUIContent("녹색맹"),
+			new GUIContent("청색맹")
 		};
 		// label and tooltip for the dropdown menu
 		private readonly GUIContent typeLabelContent = new GUIContent("Type:", "Type of color blindness");
