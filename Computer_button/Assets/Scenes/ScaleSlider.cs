@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class ScaleSlider : MonoBehaviour
 {
     private Slider scaleSlider;
+    //private Slider scaleSlider2;
 
     public float scaleMinValue;
     public float scaleMaxValue;
@@ -15,7 +16,6 @@ public class ScaleSlider : MonoBehaviour
         scaleSlider = GameObject.Find("Slider").GetComponent<Slider>();
         scaleSlider.minValue = scaleMinValue;
         scaleSlider.maxValue = scaleMaxValue;
-
         scaleSlider.onValueChanged.AddListener(ScaleSliderUpdate);
     }
 

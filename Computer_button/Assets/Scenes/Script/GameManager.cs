@@ -39,7 +39,6 @@ public class GameManager : MonoBehaviour
             if (use[i] == Accept[i])
             {
                 totalScore += 1;
-                continue;
             }
         }
 
