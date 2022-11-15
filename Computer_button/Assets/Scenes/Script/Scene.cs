@@ -12,4 +12,9 @@ public class Scene : MonoBehaviour
     {
         SceneManager.LoadScene("testing01");
     }
+
+    public void Reset()
+    {
+        SceneManager.LoadScene("Start");
+    }
 }

@@ -2,10 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-    public List<int> use = new List<int>();
+    public List<int> use = new List<int>(); // 사용자 입렵값
+    List<int> Accept = new List<int>() { 12, 26, 7, 57, 73, 2, 29, 8, 5, 3, 16, 7, 6, 96, 97, 15}; // 실제 답
+    public Text jungdab; // 몇개 맞은지 텍스트
+
+    public int totalScore = 0; 
 
     void Update()
     {
@@ -25,5 +30,19 @@ public class GameManager : MonoBehaviour
         use[13] = KeyList14.user_num14;
         use[14] = KeyList15.user_num15;
         use[15] = KeyList16.user_num16;
+    }
+
+    public void totalSum()
+    {
+        for (int i = 0; i < use.Count; i++)
+        {
+            if (use[i] == Accept[i])
+            {
+                totalScore += 1;
+                continue;
+            }
+        }
+
+        jungdab.text = "맞은 개수는 16개 중 " + totalScore + "개입니다.";
     }
 }
