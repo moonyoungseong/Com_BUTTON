@@ -17,4 +17,9 @@ public class Scene : MonoBehaviour
     {
         SceneManager.LoadScene("Start");
     }
+
+    public void explain()
+    {
+        SceneManager.LoadScene("explain");
+    }
 }

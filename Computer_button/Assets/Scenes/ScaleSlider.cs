@@ -6,7 +6,6 @@ using UnityEngine.UI;
 public class ScaleSlider : MonoBehaviour
 {
     private Slider scaleSlider;
-    //private Slider scaleSlider2;
 
     public float scaleMinValue;
     public float scaleMaxValue;

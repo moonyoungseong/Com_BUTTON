@@ -217,7 +217,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1270321}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cc9f614108c02ae4fb1614307c00c44f, type: 3}
+  m_Script: {fileID: 11500000, guid: 7fcdc2cc1f962d44184d87a50370f367, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   scaleMinValue: 0.4
@@ -3085,6 +3085,7 @@ GameObject:
   m_Component:
   - component: {fileID: 75804428}
   - component: {fileID: 75804429}
+  - component: {fileID: 75804430}
   m_Layer: 0
   m_Name: "10\uBC88"
   m_TagString: Untagged
@@ -3159,6 +3160,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &75804430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 75804427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fcdc2cc1f962d44184d87a50370f367, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleMinValue: 0.4
+  scaleMaxValue: 0.7
 --- !u!1 &77786917
 GameObject:
   m_ObjectHideFlags: 0
@@ -5434,6 +5449,7 @@ GameObject:
   m_Component:
   - component: {fileID: 149423175}
   - component: {fileID: 149423176}
+  - component: {fileID: 149423177}
   m_Layer: 0
   m_Name: "15\uBC88"
   m_TagString: Untagged
@@ -5508,6 +5524,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &149423177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 149423174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fcdc2cc1f962d44184d87a50370f367, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleMinValue: 0.4
+  scaleMaxValue: 0.7
 --- !u!1 &155342046
 GameObject:
   m_ObjectHideFlags: 0
@@ -5956,6 +5986,7 @@ GameObject:
   m_Component:
   - component: {fileID: 162317179}
   - component: {fileID: 162317180}
+  - component: {fileID: 162317181}
   m_Layer: 0
   m_Name: "16\uBC88"
   m_TagString: Untagged
@@ -6030,6 +6061,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &162317181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 162317178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fcdc2cc1f962d44184d87a50370f367, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleMinValue: 0.4
+  scaleMaxValue: 0.7
 --- !u!1 &172036163
 GameObject:
   m_ObjectHideFlags: 0
@@ -9793,7 +9838,7 @@ RectTransform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -11703,7 +11748,7 @@ RectTransform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 50, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -15720,6 +15765,7 @@ GameObject:
   m_Component:
   - component: {fileID: 464678625}
   - component: {fileID: 464678626}
+  - component: {fileID: 464678627}
   m_Layer: 0
   m_Name: "7\uBC88"
   m_TagString: Untagged
@@ -15794,6 +15840,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &464678627
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 464678624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fcdc2cc1f962d44184d87a50370f367, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleMinValue: 0.4
+  scaleMaxValue: 0.7
 --- !u!1 &467194173
 GameObject:
   m_ObjectHideFlags: 0
@@ -17890,7 +17950,7 @@ GameObject:
   - component: {fileID: 537939352}
   - component: {fileID: 537939353}
   m_Layer: 5
-  m_Name: Slider8
+  m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19954,6 +20014,7 @@ GameObject:
   m_Component:
   - component: {fileID: 584074998}
   - component: {fileID: 584074999}
+  - component: {fileID: 584075000}
   m_Layer: 0
   m_Name: "11\uBC88"
   m_TagString: Untagged
@@ -20028,6 +20089,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &584075000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 584074997}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fcdc2cc1f962d44184d87a50370f367, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleMinValue: 0.4
+  scaleMaxValue: 0.7
 --- !u!1 &585041572
 GameObject:
   m_ObjectHideFlags: 0
@@ -24741,6 +24816,7 @@ GameObject:
   m_Component:
   - component: {fileID: 716143889}
   - component: {fileID: 716143890}
+  - component: {fileID: 716143891}
   m_Layer: 0
   m_Name: "4\uBC88"
   m_TagString: Untagged
@@ -24815,6 +24891,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &716143891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 716143888}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fcdc2cc1f962d44184d87a50370f367, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleMinValue: 0.4
+  scaleMaxValue: 0.7
 --- !u!1 &721005133
 GameObject:
   m_ObjectHideFlags: 0
@@ -25055,6 +25145,7 @@ GameObject:
   m_Component:
   - component: {fileID: 722893520}
   - component: {fileID: 722893521}
+  - component: {fileID: 722893522}
   m_Layer: 0
   m_Name: "6\uBC88"
   m_TagString: Untagged
@@ -25129,6 +25220,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &722893522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 722893519}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fcdc2cc1f962d44184d87a50370f367, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleMinValue: 0.4
+  scaleMaxValue: 0.7
 --- !u!1 &727984505
 GameObject:
   m_ObjectHideFlags: 0
@@ -30306,6 +30411,7 @@ GameObject:
   m_Component:
   - component: {fileID: 890872837}
   - component: {fileID: 890872838}
+  - component: {fileID: 890872839}
   m_Layer: 0
   m_Name: "5\uBC88"
   m_TagString: Untagged
@@ -30380,6 +30486,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &890872839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 890872836}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fcdc2cc1f962d44184d87a50370f367, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleMinValue: 0.4
+  scaleMaxValue: 0.7
 --- !u!1 &894734388
 GameObject:
   m_ObjectHideFlags: 0
@@ -36640,6 +36760,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1118697401}
   - component: {fileID: 1118697402}
+  - component: {fileID: 1118697403}
   m_Layer: 0
   m_Name: "8\uBC88"
   m_TagString: Untagged
@@ -36714,6 +36835,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1118697403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1118697400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fcdc2cc1f962d44184d87a50370f367, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleMinValue: 0.4
+  scaleMaxValue: 0.7
 --- !u!1 &1120450732
 GameObject:
   m_ObjectHideFlags: 0
@@ -40235,6 +40370,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1198811892}
   - component: {fileID: 1198811893}
+  - component: {fileID: 1198811894}
   m_Layer: 0
   m_Name: "14\uBC88"
   m_TagString: Untagged
@@ -40309,6 +40445,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1198811894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1198811891}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fcdc2cc1f962d44184d87a50370f367, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleMinValue: 0.4
+  scaleMaxValue: 0.7
 --- !u!1 &1201649967
 GameObject:
   m_ObjectHideFlags: 0
@@ -40480,7 +40630,7 @@ GameObject:
   - component: {fileID: 1211412702}
   - component: {fileID: 1211412703}
   m_Layer: 5
-  m_Name: Slider4
+  m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -43914,7 +44064,7 @@ GameObject:
   - component: {fileID: 1290539218}
   - component: {fileID: 1290539219}
   m_Layer: 5
-  m_Name: Slider16
+  m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45924,6 +46074,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1349530374}
   - component: {fileID: 1349530375}
+  - component: {fileID: 1349530376}
   m_Layer: 0
   m_Name: "12\uBC88"
   m_TagString: Untagged
@@ -45998,6 +46149,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1349530376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1349530373}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fcdc2cc1f962d44184d87a50370f367, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleMinValue: 0.4
+  scaleMaxValue: 0.7
 --- !u!1 &1350846042
 GameObject:
   m_ObjectHideFlags: 0
@@ -47767,7 +47932,7 @@ RectTransform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -48842,7 +49007,7 @@ GameObject:
   - component: {fileID: 1430063865}
   - component: {fileID: 1430063866}
   m_Layer: 5
-  m_Name: Slider13
+  m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -51202,7 +51367,7 @@ GameObject:
   - component: {fileID: 1485905514}
   - component: {fileID: 1485905515}
   m_Layer: 5
-  m_Name: Slider7
+  m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -53626,7 +53791,7 @@ GameObject:
   - component: {fileID: 1542253897}
   - component: {fileID: 1542253898}
   m_Layer: 5
-  m_Name: Slider3
+  m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -55312,7 +55477,7 @@ GameObject:
   - component: {fileID: 1589791425}
   - component: {fileID: 1589791426}
   m_Layer: 5
-  m_Name: Slider14
+  m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -56381,6 +56546,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1608407519}
   - component: {fileID: 1608407520}
+  - component: {fileID: 1608407521}
   m_Layer: 0
   m_Name: "3\uBC88"
   m_TagString: Untagged
@@ -56455,6 +56621,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1608407521
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1608407518}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fcdc2cc1f962d44184d87a50370f367, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleMinValue: 0.4
+  scaleMaxValue: 0.7
 --- !u!1 &1610994379
 GameObject:
   m_ObjectHideFlags: 0
@@ -59674,7 +59854,7 @@ RectTransform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 50, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -61829,6 +62009,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1831016316}
   - component: {fileID: 1831016317}
+  - component: {fileID: 1831016318}
   m_Layer: 0
   m_Name: "9\uBC88"
   m_TagString: Untagged
@@ -61903,6 +62084,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1831016318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1831016315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fcdc2cc1f962d44184d87a50370f367, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleMinValue: 0.4
+  scaleMaxValue: 0.7
 --- !u!1 &1831127345
 GameObject:
   m_ObjectHideFlags: 0
@@ -61918,7 +62113,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1831127346
 Transform:
   m_ObjectHideFlags: 0
@@ -62691,7 +62886,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1866406995
 Transform:
   m_ObjectHideFlags: 0
@@ -63158,7 +63353,7 @@ GameObject:
   - component: {fileID: 1873207156}
   - component: {fileID: 1873207157}
   m_Layer: 5
-  m_Name: Slider11
+  m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -64072,7 +64267,7 @@ GameObject:
   - component: {fileID: 1891076879}
   - component: {fileID: 1891076880}
   m_Layer: 5
-  m_Name: Slider9
+  m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -69327,7 +69522,7 @@ GameObject:
   - component: {fileID: 2030781414}
   - component: {fileID: 2030781415}
   m_Layer: 5
-  m_Name: Slider12
+  m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -70100,7 +70295,7 @@ GameObject:
   - component: {fileID: 2046462158}
   - component: {fileID: 2046462159}
   m_Layer: 5
-  m_Name: Slider2
+  m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -70271,7 +70466,7 @@ GameObject:
   - component: {fileID: 2050056164}
   - component: {fileID: 2050056165}
   m_Layer: 5
-  m_Name: Slider6
+  m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -70442,7 +70637,7 @@ GameObject:
   - component: {fileID: 2054617480}
   - component: {fileID: 2054617481}
   m_Layer: 5
-  m_Name: Slider15
+  m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -71658,6 +71853,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2093218454}
   - component: {fileID: 2093218455}
+  - component: {fileID: 2093218456}
   m_Layer: 0
   m_Name: "13\uBC88"
   m_TagString: Untagged
@@ -71732,6 +71928,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2093218456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2093218453}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fcdc2cc1f962d44184d87a50370f367, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scaleMinValue: 0.4
+  scaleMaxValue: 0.7
 --- !u!1 &2096707735
 GameObject:
   m_ObjectHideFlags: 0
@@ -72224,7 +72434,7 @@ GameObject:
   - component: {fileID: 2102429636}
   - component: {fileID: 2102429637}
   m_Layer: 5
-  m_Name: Slider5
+  m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73601,7 +73811,7 @@ GameObject:
   - component: {fileID: 2145803315}
   - component: {fileID: 2145803316}
   m_Layer: 5
-  m_Name: Slider10
+  m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
