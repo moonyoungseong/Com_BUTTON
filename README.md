@@ -6,7 +6,7 @@
 시간과 공간을 크게 제약받지 않고 전문가 없이 간단하게 진행하는 색각이상 검사 개발
 
 ### 프로젝트 인원
-3인 개발
+3인 개발<br>
 전체적인 개발을 담당
 
 ### 주요 기능
@@ -24,20 +24,22 @@
 </td>
 
 <td align="center">
-<img src="https://github.com/user-attachments/assets/b19b1f6f-2ed3-4233-8350-e52987d25c7a" width="350"/>
-<br>작물 시스템
+<img src="https://github.com/user-attachments/assets/e61c3a15-e2fa-4c25-b3ef-1ab24d3ab247" width="350"/>
+<br>구조 시각화
 </td>
 </tr>
 
+
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/f8c3a8c1-4a98-4f22-be3b-77221673f285" width="350"/>
-<br>대화 시스템
+<img src="https://github.com/user-attachments/assets/5f2532cf-d5ff-4373-a994-d4ba3f986f4b" width="350"/>
+<br>테스트 설명
 </td>
 
+
 <td align="center">
-<img src="https://github.com/user-attachments/assets/b1a0354e-6ca2-4b77-b787-477335a662a0" width="350"/>
-<br>퀘스트 시스템
+<img src="https://github.com/user-attachments/assets/b2e5d1cd-84c0-432f-9640-5bc4a5827c53" width="350"/>
+<br>테스트 화면
 </td>
 </tr>
 </table>
