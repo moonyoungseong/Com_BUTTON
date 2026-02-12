@@ -1,6 +1,6 @@
 ## 🎥 play Video
 
-**[게임 플레이 영상 보기 (YouTube)](https://www.youtube.com/watch?v=5J2FPIPJf6M)**
+**[플레이 영상 보기 (YouTube)](https://www.youtube.com/watch?v=5J2FPIPJf6M)**
 
 ### 프로젝트 소개
 시간과 공간을 크게 제약받지 않고 전문가 없이 간단하게 진행하는 색각이상 검사 개발
@@ -44,13 +44,9 @@
 </tr>
 </table>
 
-
-
-
-
 ### 코드 위치 
-FarmProject - assets - script
+Computer_button/Assets/Scenes/Script
 
 ### Unity 프로젝트 파일
-여기서 Unity 프로젝트의 리소스 파일을 다운로드할 수 있습니다: [TeraBox 링크] https://1024terabox.com/s/1eTwhV3g4udIuHpk9B-cbUw
+전부 깃허브에 있습니다.
 
