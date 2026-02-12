@@ -1,34 +1,26 @@
-## 🎥 Gameplay Video
+## 🎥 play Video
 
-**[게임 플레이 영상 보기 (YouTube)](https://www.youtube.com/watch?v=cPi5Ox8U_V4&t=424s)**
+**[게임 플레이 영상 보기 (YouTube)](https://www.youtube.com/watch?v=5J2FPIPJf6M)**
 
 ### 프로젝트 소개
-농사 관련 정보를 게임 플레이에 자연스럽게 반영하여 농촌 생활을 체험하고 이해할 수 있도록 개발한 농사 시뮬레이션 게임입니다. 작물의 재배, 성장, 수확 과정을 중심으로 농사의 흐름을 경험할 수 있도록 구현했으며, 퀘스트 시스템을 통해 다양한 목표를 수행하며 게임을 진행할 수 있도록 설계했습니다.
+시간과 공간을 크게 제약받지 않고 전문가 없이 간단하게 진행하는 색각이상 검사 개발
+
+### 프로젝트 인원
+3인 개발
+전체적인 개발을 담당
 
 ### 주요 기능
-<img width="480" height="147" alt="image" src="https://github.com/user-attachments/assets/28e45020-e2be-413d-9db9-cad288f2f0d6" />
-
-### 사용 기술
-- **Unity** : 게임 개발 엔진
-- **C#** : 게임 로직 구현
-- **Cinemachine** : 카메라 제어 및 시네마틱 연출
-- **Timeline** : 컷씬 및 이벤트 연출 관리
-- **Coroutine** : 특정 동작 지연 처리
-- **Raycast** : 마우스를 이용한 상호작용
-- **Object Pooling** : UI, 프리팹 효율적 생성/재사용
-- **PlayerPrefs** : 게임 데이터 저장/불러오기
-- **JSON** : NPC 대화, 퀘스트 데이터, 아이템 관리
-- **ScriptableObject** : 작물 속성, 오디오 클립 데이터 관리
-- **Factory Pattern** : 작물 객체 생성 관리
-- **Command Pattern** : 퀘스트 종류, 진행 관리
-- **Singleton Pattern** : 인벤토리, 오디오 등 관리
+- 색각 이상 테스트 이미지 제공
+- 사용자 입력 기반 결과 확인
+- 간단한 UI를 통한 테스트 진행
+- 입력값 저장 후 답안 비교
 
 ### 사진
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/b9375134-61ee-4fd1-834e-fa5d4e9e4a63" width="350"/>
-<br>전체 구조
+<img src="https://github.com/user-attachments/assets/6c26da3a-7899-4eab-9545-810db5d6fedf" width="350"/>
+<br>진행 흐름
 </td>
 
 <td align="center">
