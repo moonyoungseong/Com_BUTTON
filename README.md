@@ -48,5 +48,5 @@
 Computer_button/Assets/Scenes/Script
 
 ### Unity 프로젝트 파일
-전부 깃허브에 있습니다.
+전부 깃허브에 있으니 그대로 실행하면 됩니다.
 
